@@ -1,0 +1,11 @@
+C:\Users\Efe\Desktop\Sharp\4cBasit\4cBasit\bin\Debug\4cBasit.exe.config
+C:\Users\Efe\Desktop\Sharp\4cBasit\4cBasit\bin\Debug\4cBasit.exe
+C:\Users\Efe\Desktop\Sharp\4cBasit\4cBasit\bin\Debug\4cBasit.pdb
+C:\Users\Efe\Desktop\Sharp\4cBasit\4cBasit\obj\Debug\4cBasit.csprojResolveAssemblyReference.cache
+C:\Users\Efe\Desktop\Sharp\4cBasit\4cBasit\obj\Debug\_4cBasit.Form1.resources
+C:\Users\Efe\Desktop\Sharp\4cBasit\4cBasit\obj\Debug\_4cBasit.Properties.Resources.resources
+C:\Users\Efe\Desktop\Sharp\4cBasit\4cBasit\obj\Debug\4cBasit.csproj.GenerateResource.Cache
+C:\Users\Efe\Desktop\Sharp\4cBasit\4cBasit\obj\Debug\4cBasit.exe
+C:\Users\Efe\Desktop\Sharp\4cBasit\4cBasit\obj\Debug\4cBasit.pdb
+C:\Users\Efe\Desktop\Sharp\4cBasit\4cBasit\bin\Debug\DevLib.ModernUI.dll
+C:\Users\Efe\Desktop\Sharp\4cBasit\4cBasit\bin\Debug\DevLib.ModernUI.xml
